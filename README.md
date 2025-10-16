@@ -1,4 +1,4 @@
-# 🎯 Prompt Engineering Portfolio — [Nama Anda]
+# 🎯 Prompt Engineering Portfolio — [Bagus Satriya]
 
 ## 💼 Profil Singkat
 Saya adalah **Prompt Engineer Freelance** yang berfokus pada perancangan sistem prompt untuk model teks dan multimodal.
