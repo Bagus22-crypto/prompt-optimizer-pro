@@ -20,7 +20,6 @@ Keahlian saya mencakup:
 |-----------|--------------|--------------|
 | SEO Content Generation | Optimasi artikel, CTR, dan keyword | Artikel SEO 1.500 kata dengan meta description |
 | Multimodal Creation | Gambar, video, voice AI | Avatar video dengan script dan sinkronisasi suara |
-| Job Assistant Prompts | Analisis lowongan, CV, wawancara AI | Simulasi interview interaktif berbasis AI |
 
 ## 📩 Call-to-Action
 Ingin mengembangkan sistem prompt atau AI workflow untuk bisnis Anda?
