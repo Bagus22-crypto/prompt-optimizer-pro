@@ -57,10 +57,29 @@ Buat pipeline konten lengkap untuk **video promosi multi-platform berdurasi 30 d
 - Pastikan skrip sangat padat dan engaging, cocok untuk format shortform (TikTok, Reels, YouTube Shorts).
 
 ### 2. Image Generation (Midjourney)
-Futuristic high-tech workspace interior with human presence, sleek minimalistic design, illustrative stylized art, clean yet atmospheric mood lighting, cinematic shadows and soft glows, high contrast, professional branding elements subtly integrated, dynamic composition suitable for presentation, modern ergonomic furniture and gadgets, characters interacting naturally with environment, harmonious color palette emphasizing focus and elegance, ultra HD resolution, ultra-detailed textures, visually engaging and immersive.
+> "Ultra-detailed futuristic high-tech workspace interior in stylized illustrative art, human characters actively working and interacting naturally with modern ergonomic furniture and gadgets, sleek minimalistic design, cinematic soft glows and atmospheric shadows, harmonious color palette emphasizing focus, elegance, and productivity, subtle integration of professional branding elements, dynamic composition suitable for presentation, visually immersive and engaging, ultra HD resolution, ultra-detailed textures, high contrast, realistic materials with precise reflections and ambient occlusion, cinematic mood lighting, perfect for concept art or presentation render."
 
 ### 3. Voice Design (ElevenLabs)
-> “Generate a narrator voice in Indonesian: calm, confident, gender-neutral, mid-tempo, clear pronunciation suitable for professional tech video.”
+- Buat narasi suara berbahasa Indonesia untuk klip video pendek (30–60 detik) dengan karakteristik berikut:
+- Gaya: tenang, percaya diri, netral gender
+- Tempo: sedang (mid-tempo), nyaman didengar
+- Artikulasi: jelas dan mudah dimengerti
+- Nada & Ekspresi: ekspresif, menekankan poin penting secara natural tanpa terdengar berlebihan
+- Audiens: profesional teknologi atau edukasi tech
+- Platform: ElevenLabs TTS
+- Parameter tambahan (opsional): pitch natural, volume seimbang, intonasi halus untuk penekanan kata penting, penekanan emosional ringan sesuai konteks
+- Output: file audio berkualitas tinggi siap pakai untuk video pendek.
 
 ### 4. Video Composition (Runway / D-ID)
-> “Combine narration with images according to script pacing. Each image should display for a duration suited to the scene, transitions smooth, cinematic flow, aligned with futuristic minimalism style and mixed realistic/illustrative visuals.”
+- Buat animasi berdasarkan skrip berikut, dengan setiap adegan digabungkan antara narasi dan gambar.
+
+- Durasi tiap adegan: Estimasi otomatis sesuai pacing narasi dan intensitas scene.
+
+- Transisi antar gambar: Smooth cinematic, natural dan seamless antar adegan.
+
+- Gaya visual: Futuristik minimalis, campuran realistis dan ilustratif, dengan fokus estetika clean, modern, dan sinematik.
+
+- Output: Deskripsi visual per adegan untuk generasi di Runway, termasuk komposisi, warna, lighting, angle, dan elemen kunci yang mendukung storytelling.
+
+- Catatan: Pertahankan flow narasi agar visual mendukung cerita, jangan ada ketidaksesuaian antara pacing narasi dan visual.
+
